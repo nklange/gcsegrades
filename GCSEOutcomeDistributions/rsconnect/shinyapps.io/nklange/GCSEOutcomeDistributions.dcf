@@ -1,0 +1,12 @@
+name: GCSEOutcomeDistributions
+title: GCSEOutcomeDistributions
+username:
+account: nklange
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4956482
+bundleId: 5176426
+url: https://nklange.shinyapps.io/GCSEOutcomeDistributions/
+when: 1635199600.05862
+asMultiple: FALSE
+asStatic: FALSE

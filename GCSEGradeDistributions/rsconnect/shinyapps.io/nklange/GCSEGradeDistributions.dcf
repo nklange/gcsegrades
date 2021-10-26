@@ -1,0 +1,12 @@
+name: GCSEGradeDistributions
+title: GCSEGradeDistributions
+username:
+account: nklange
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4954392
+bundleId: 5176396
+url: https://nklange.shinyapps.io/GCSEGradeDistributions/
+when: 1635199136.07812
+asMultiple: FALSE
+asStatic: FALSE
